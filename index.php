@@ -1,1 +1,3 @@
-<?php echo "<h2>Halo, selamat datang di website PHP!</h2>";?>
+<?php
+echo "Halo, selamat datang di website PHP!";
+?>
